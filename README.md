@@ -20,8 +20,7 @@
   <a href="https://github.com/eichenbergerche/laboratorio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=laboratorio&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/eichenbergerche/todo-list"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=todo-list&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/eichenbergerche/eichenbergerche.github.io"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=eichenbergerche.github.io&langs_count=10&layout=compact&theme=gruvbox">
-</p>
-    
+</p>    
 
 
 <!---
