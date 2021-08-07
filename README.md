@@ -10,6 +10,12 @@
 <p align="left">
   <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api?username=eichenbergerche&show_icons=true&theme=gruvbox">
   <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichenbergerche&hide=scss&langs_count=10&layout=compact&theme=gruvbox">
+</p>
+    
+## My repos
+    
+<p align="left">
+  
    <a href="https://github.com/eichenbergerche/bot-ivational"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=bot-ivational&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/eichenbergerche/laboratorio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=laboratorio&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/eichenbergerche/todo-list"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=todo-list&langs_count=10&layout=compact&theme=gruvbox">
