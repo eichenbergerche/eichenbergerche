@@ -9,7 +9,7 @@
   
 <p align="left">
   <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api?username=eichenbergerche&show_icons=true&theme=gruvbox">
-  <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichenbergerche&hide=html,css,&langs_count=10&layout=compact&theme=gruvbox">
+  <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichenbergerche&hide=html,scss,css&langs_count=10&layout=compact&theme=gruvbox">
 </p>
     
 ## My repos
