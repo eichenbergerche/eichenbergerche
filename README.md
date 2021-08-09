@@ -19,9 +19,13 @@
    <a href="https://github.com/eichenbergerche/bot-ivational"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=bot-ivational&langs_count=5&theme=gruvbox">
   <a href="https://github.com/eichenbergerche/PythonCousera"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&card_height=300&&repo=PythonCousera&langs_count=5&layout=compact&theme=gruvbox">
   <a href="https://github.com/eichenbergerche/todo-list"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=todo-list&layout=compact&theme=gruvbox">
-  <a href="https://github.com/eichenbergerche/eichenbergerche.github.io"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=eichenbergerche.github.io&langs_count=3&layout=compact&theme=gruvbox">
-</p>    
-
+  <a href="https://github.com/eichenbergerche/eichenbergerche.github.io"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=eichenbergerche.github.io&hide=html,scss,css&langs_count=10&layout=compact&theme=gruvbox">
+</p>  
+    
+## My Works
+    
+<a href=https://envolvedorasyservicios.com.ar/inicio><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/envolvedoras.png">
+<a href=https://www.litoralpack.com.ar/><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/litoralPack.png">
 
 <!---
 eichenbergerche/eichenbergerche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
