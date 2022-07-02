@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eichenbergerche.eichenbergerche)
-# ```Hey there!, I’m eichenbergerche.```
+# ```Hey there! I’m eichenbergerche.```
 
 * :godmode: I’m interested in **Programming** and **Art**
 * :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff
