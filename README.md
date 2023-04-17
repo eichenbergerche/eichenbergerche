@@ -1,12 +1,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eichenbergerche.eichenbergerche)
 # ```Hey there! I’m eichenbergerche.```
 
-* :godmode: I’m interested in **Programming** and **Art**
-* :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff
-* :goberserk: I’m looking to collaborate on any project to help me to gain some experience in the programming world
-* :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:eichenberger.che@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/eichenbergerche)**_
+* :godmode: I have a passion for **Programming** and **Art** that drives me to explore new horizons.
+* :suspect: Currently, I'm working hard to improve my skills in English, Web Development, UI design, among other things.
+* :goberserk: I'm eagerly seeking opportunities to collaborate on projects and gain valuable experience in the programming world.
+* :feelsgood: Want to get in touch? If you're impressed by my repositories, feel free to contact me via _**[e-mail](mailto:eichenberger.che@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/eichenbergerche)**_
 
-  
 <p align="left">
   <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api?username=eichenbergerche&show_icons=true&theme=gruvbox">
   <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichenbergerche&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
