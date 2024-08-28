@@ -22,10 +22,6 @@
   <a href="https://github.com/eichenbergerche/github-readme-stats-tuto"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=github-readme-stats-tuto&hide=html,scss,css&langs_count=10&layout=compact&theme=gruvbox">
 </p>  
     
-## My Works
-    
-<a href=https://envolvedorasyservicios.com.ar/inicio><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/envolvedoras.png">
-<a href=https://www.litoralpack.com.ar/><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/litoralPack.png">
 
 <!---
 eichenbergerche/eichenbergerche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
